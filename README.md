@@ -2,10 +2,7 @@
   <img src="aubree-welcome.webp" width="220" alt="Aubree waving hello" />
 
   ### Hi, welcome! 👋
-
   *No classroom, just a screen and a lot of "why isn't this working?"*
-
-  Uganda 🇺🇬 · Kotlin · HTML · CSS
 </div>
 <!--
 **trebronwayne/trebronwayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
